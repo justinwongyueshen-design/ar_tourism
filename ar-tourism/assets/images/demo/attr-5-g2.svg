@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Misty Hill Lookout">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#064e3b"/><stop offset="1" stop-color="#16a34a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="946" cy="20" r="120" fill="#fff" opacity="0.13"/>
+<circle cx="39" cy="205" r="61" fill="#fff" opacity="0.11"/>
+<circle cx="971" cy="449" r="112" fill="#fff" opacity="0.08"/>
+<circle cx="672" cy="271" r="63" fill="#fff" opacity="0.09"/>
+<circle cx="718" cy="654" r="45" fill="#fff" opacity="0.06"/>
+<circle cx="1025" cy="434" r="77" fill="#fff" opacity="0.06"/>
+<circle cx="399" cy="201" r="32" fill="#fff" opacity="0.05"/>
+<circle cx="604" cy="769" r="30" fill="#fff" opacity="0.13"/>
+<circle cx="922" cy="82" r="118" fill="#fff" opacity="0.05"/>
+<circle cx="330" cy="634" r="106" fill="#fff" opacity="0.10"/>
+<circle cx="938" cy="256" r="50" fill="#fff" opacity="0.06"/>
+<circle cx="704" cy="739" r="54" fill="#fff" opacity="0.11"/>
+<circle cx="166" cy="219" r="63" fill="#fff" opacity="0.09"/>
+<circle cx="129" cy="291" r="53" fill="#fff" opacity="0.15"/>
+<circle cx="974" cy="650" r="91" fill="#fff" opacity="0.13"/>
+<circle cx="816" cy="355" r="86" fill="#fff" opacity="0.06"/>
+<circle cx="879" cy="124" r="51" fill="#fff" opacity="0.09"/>
+<circle cx="322" cy="742" r="114" fill="#fff" opacity="0.07"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Misty Hill Lookout</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape - gallery 2</text>
+</svg>

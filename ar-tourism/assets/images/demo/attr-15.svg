@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Heritage Coffee House">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="90" cy="646" r="72" fill="#fff" opacity="0.06"/>
+<circle cx="586" cy="243" r="40" fill="#fff" opacity="0.12"/>
+<circle cx="1113" cy="385" r="67" fill="#fff" opacity="0.12"/>
+<circle cx="234" cy="608" r="53" fill="#fff" opacity="0.08"/>
+<circle cx="245" cy="513" r="88" fill="#fff" opacity="0.13"/>
+<circle cx="887" cy="533" r="49" fill="#fff" opacity="0.12"/>
+<circle cx="1153" cy="420" r="58" fill="#fff" opacity="0.09"/>
+<circle cx="552" cy="586" r="91" fill="#fff" opacity="0.14"/>
+<circle cx="508" cy="60" r="96" fill="#fff" opacity="0.11"/>
+<circle cx="317" cy="224" r="70" fill="#fff" opacity="0.06"/>
+<circle cx="473" cy="427" r="61" fill="#fff" opacity="0.08"/>
+<circle cx="893" cy="172" r="102" fill="#fff" opacity="0.09"/>
+<circle cx="442" cy="706" r="106" fill="#fff" opacity="0.15"/>
+<circle cx="1162" cy="594" r="95" fill="#fff" opacity="0.11"/>
+<circle cx="708" cy="542" r="49" fill="#fff" opacity="0.10"/>
+<circle cx="62" cy="788" r="61" fill="#fff" opacity="0.13"/>
+<circle cx="1016" cy="525" r="76" fill="#fff" opacity="0.15"/>
+<circle cx="329" cy="331" r="50" fill="#fff" opacity="0.08"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Heritage Coffee House</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area</text>
+</svg>

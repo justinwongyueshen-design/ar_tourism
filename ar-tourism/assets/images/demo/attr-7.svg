@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Orchid Garden Reserve">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16a34a"/><stop offset="1" stop-color="#064e3b"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,616 100,596 200,595 300,603 400,571 500,652 600,586 700,660 800,677 900,594 1000,636 1100,661 1200,592 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,538 100,492 200,590 300,593 400,560 500,554 600,584 700,577 800,592 900,559 1000,528 1100,542 1200,575 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,471 100,470 200,415 300,496 400,451 500,501 600,413 700,507 800,477 900,515 1000,455 1100,420 1200,498 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,352 100,428 200,397 300,331 400,343 500,332 600,355 700,408 800,377 900,357 1000,344 1100,424 1200,391 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Orchid Garden Reserve</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape</text>
+</svg>

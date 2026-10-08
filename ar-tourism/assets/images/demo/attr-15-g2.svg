@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Heritage Coffee House">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="717,740 897,740 807,560" fill="#fff" opacity="0.15"/>
+<polygon points="575,740 761,740 668,554" fill="#fff" opacity="0.08"/>
+<polygon points="490,740 634,740 562,596" fill="#fff" opacity="0.09"/>
+<polygon points="886,740 960,740 923,666" fill="#fff" opacity="0.07"/>
+<polygon points="28,740 197,740 112,571" fill="#fff" opacity="0.16"/>
+<polygon points="683,740 864,740 773,559" fill="#fff" opacity="0.09"/>
+<polygon points="275,740 367,740 321,648" fill="#fff" opacity="0.12"/>
+<polygon points="880,740 1078,740 979,542" fill="#fff" opacity="0.11"/>
+<polygon points="579,740 718,740 648,601" fill="#fff" opacity="0.10"/>
+<polygon points="979,740 1172,740 1075,547" fill="#fff" opacity="0.08"/>
+<polygon points="493,740 662,740 577,571" fill="#fff" opacity="0.07"/>
+<polygon points="244,740 318,740 281,666" fill="#fff" opacity="0.17"/>
+<polygon points="886,740 1001,740 943,625" fill="#fff" opacity="0.08"/>
+<polygon points="1158,740 1228,740 1193,670" fill="#fff" opacity="0.06"/>
+<polygon points="360,740 527,740 443,573" fill="#fff" opacity="0.15"/>
+<polygon points="869,740 1061,740 965,548" fill="#fff" opacity="0.15"/>
+<polygon points="845,740 912,740 878,673" fill="#fff" opacity="0.18"/>
+<polygon points="944,740 1081,740 1012,603" fill="#fff" opacity="0.11"/>
+<polygon points="142,740 261,740 201,621" fill="#fff" opacity="0.11"/>
+<polygon points="1020,740 1158,740 1089,602" fill="#fff" opacity="0.09"/>
+<polygon points="673,740 825,740 749,588" fill="#fff" opacity="0.09"/>
+<polygon points="286,740 480,740 383,546" fill="#fff" opacity="0.17"/>
+<polygon points="0,740 176,740 88,564" fill="#fff" opacity="0.11"/>
+<polygon points="1138,740 1318,740 1228,560" fill="#fff" opacity="0.11"/>
+<polygon points="925,740 1104,740 1014,561" fill="#fff" opacity="0.10"/>
+<polygon points="1151,740 1226,740 1188,665" fill="#fff" opacity="0.18"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Heritage Coffee House</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area - gallery 2</text>
+</svg>

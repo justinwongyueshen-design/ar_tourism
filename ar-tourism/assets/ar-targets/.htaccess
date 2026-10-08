@@ -1,0 +1,16 @@
+# Only compiled MindAR targets (.mind) may be downloaded from here
+Options -Indexes -ExecCGI
+<IfModule mod_php.c>
+  php_flag engine off
+</IfModule>
+<FilesMatch ".*">
+  Require all denied
+</FilesMatch>
+<FilesMatch "\.mind$">
+  Require all granted
+</FilesMatch>
+AddType application/octet-stream .mind
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Cache-Control "public, max-age=31536000, immutable"
+</IfModule>

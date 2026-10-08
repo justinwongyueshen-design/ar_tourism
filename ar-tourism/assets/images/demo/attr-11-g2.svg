@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Lighthouse Point">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14532d"/><stop offset="1" stop-color="#22c55e"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,662 100,680 200,582 300,623 400,612 500,628 600,673 700,584 800,571 900,599 1000,596 1100,586 1200,678 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,579 100,537 200,491 300,546 400,518 500,537 600,555 700,491 800,540 900,557 1000,523 1100,597 1200,526 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,492 100,475 200,501 300,411 400,461 500,459 600,499 700,415 800,463 900,453 1000,485 1100,504 1200,507 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,330 100,427 200,384 300,429 400,404 500,398 600,346 700,354 800,341 900,398 1000,352 1100,335 1200,421 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Lighthouse Point</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Coastal Destination - gallery 2</text>
+</svg>

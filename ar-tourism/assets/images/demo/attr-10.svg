@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Riverside Craft Market">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#7f1d1d"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="787,740 848,740 817,679" fill="#fff" opacity="0.14"/>
+<polygon points="830,740 933,740 881,637" fill="#fff" opacity="0.14"/>
+<polygon points="593,740 711,740 652,622" fill="#fff" opacity="0.06"/>
+<polygon points="277,740 366,740 321,651" fill="#fff" opacity="0.12"/>
+<polygon points="991,740 1082,740 1036,649" fill="#fff" opacity="0.12"/>
+<polygon points="921,740 1014,740 967,647" fill="#fff" opacity="0.14"/>
+<polygon points="284,740 431,740 357,593" fill="#fff" opacity="0.15"/>
+<polygon points="1193,740 1269,740 1231,664" fill="#fff" opacity="0.18"/>
+<polygon points="578,740 704,740 641,614" fill="#fff" opacity="0.10"/>
+<polygon points="157,740 292,740 224,605" fill="#fff" opacity="0.06"/>
+<polygon points="1051,740 1112,740 1081,679" fill="#fff" opacity="0.14"/>
+<polygon points="1033,740 1160,740 1096,613" fill="#fff" opacity="0.14"/>
+<polygon points="25,740 89,740 57,676" fill="#fff" opacity="0.09"/>
+<polygon points="428,740 561,740 494,607" fill="#fff" opacity="0.12"/>
+<polygon points="1098,740 1257,740 1177,581" fill="#fff" opacity="0.08"/>
+<polygon points="701,740 900,740 800,541" fill="#fff" opacity="0.17"/>
+<polygon points="424,740 500,740 462,664" fill="#fff" opacity="0.14"/>
+<polygon points="1126,740 1218,740 1172,648" fill="#fff" opacity="0.10"/>
+<polygon points="1084,740 1181,740 1132,643" fill="#fff" opacity="0.11"/>
+<polygon points="657,740 857,740 757,540" fill="#fff" opacity="0.14"/>
+<polygon points="297,740 481,740 389,556" fill="#fff" opacity="0.07"/>
+<polygon points="473,740 557,740 515,656" fill="#fff" opacity="0.07"/>
+<polygon points="646,740 745,740 695,641" fill="#fff" opacity="0.09"/>
+<polygon points="545,740 712,740 628,573" fill="#fff" opacity="0.18"/>
+<polygon points="860,740 1043,740 951,557" fill="#fff" opacity="0.15"/>
+<polygon points="35,740 205,740 120,570" fill="#fff" opacity="0.13"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Riverside Craft Market</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Cultural Village</text>
+</svg>

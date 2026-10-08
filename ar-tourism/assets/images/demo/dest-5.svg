@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Food Heritage Area">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d94f4f"/><stop offset="1" stop-color="#4a1414"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="714" cy="594" r="43" fill="#fff" opacity="0.15"/>
+<circle cx="639" cy="536" r="103" fill="#fff" opacity="0.08"/>
+<circle cx="335" cy="356" r="51" fill="#fff" opacity="0.13"/>
+<circle cx="302" cy="102" r="114" fill="#fff" opacity="0.09"/>
+<circle cx="346" cy="440" r="108" fill="#fff" opacity="0.09"/>
+<circle cx="942" cy="508" r="116" fill="#fff" opacity="0.07"/>
+<circle cx="374" cy="626" r="69" fill="#fff" opacity="0.15"/>
+<circle cx="1076" cy="256" r="37" fill="#fff" opacity="0.14"/>
+<circle cx="238" cy="366" r="116" fill="#fff" opacity="0.14"/>
+<circle cx="803" cy="544" r="94" fill="#fff" opacity="0.11"/>
+<circle cx="1004" cy="634" r="95" fill="#fff" opacity="0.09"/>
+<circle cx="591" cy="535" r="119" fill="#fff" opacity="0.14"/>
+<circle cx="1162" cy="429" r="75" fill="#fff" opacity="0.08"/>
+<circle cx="537" cy="578" r="46" fill="#fff" opacity="0.14"/>
+<circle cx="1130" cy="492" r="80" fill="#fff" opacity="0.14"/>
+<circle cx="1191" cy="785" r="31" fill="#fff" opacity="0.10"/>
+<circle cx="416" cy="58" r="108" fill="#fff" opacity="0.14"/>
+<circle cx="655" cy="777" r="84" fill="#fff" opacity="0.10"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Food Heritage Area</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Demo destination image</text>
+</svg>

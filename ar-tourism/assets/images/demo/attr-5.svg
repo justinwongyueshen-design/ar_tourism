@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Misty Hill Lookout">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16a34a"/><stop offset="1" stop-color="#064e3b"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,625 100,619 200,588 300,668 400,612 500,572 600,617 700,621 800,574 900,590 1000,652 1100,584 1200,614 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,577 100,588 200,575 300,506 400,494 500,571 600,584 700,520 800,513 900,575 1000,526 1100,507 1200,559 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,427 100,520 200,455 300,482 400,479 500,440 600,423 700,485 800,411 900,478 1000,509 1100,507 1200,510 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,363 100,403 200,332 300,412 400,401 500,438 600,354 700,372 800,351 900,423 1000,402 1100,372 1200,364 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Misty Hill Lookout</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Heritage District">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="1" stop-color="#3b2f1a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<rect x="0" y="501" width="134" height="299" fill="#000" opacity="0.28"/>
+<rect x="142" y="361" width="105" height="439" fill="#000" opacity="0.13"/>
+<rect x="255" y="487" width="87" height="313" fill="#000" opacity="0.29"/>
+<rect x="349" y="432" width="87" height="368" fill="#000" opacity="0.29"/>
+<rect x="437" y="502" width="92" height="298" fill="#000" opacity="0.15"/>
+<rect x="536" y="413" width="128" height="387" fill="#000" opacity="0.15"/>
+<rect x="676" y="478" width="101" height="322" fill="#000" opacity="0.23"/>
+<rect x="783" y="494" width="114" height="306" fill="#000" opacity="0.13"/>
+<rect x="904" y="492" width="98" height="308" fill="#000" opacity="0.14"/>
+<rect x="1015" y="432" width="139" height="368" fill="#000" opacity="0.24"/>
+<rect x="1168" y="398" width="94" height="402" fill="#000" opacity="0.26"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Heritage District</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Demo destination image</text>
+</svg>

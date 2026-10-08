@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Night Hawker Street">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,656 100,617 200,583 300,660 400,622 500,607 600,669 700,614 800,640 900,628 1000,677 1100,648 1200,642 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,579 100,499 200,578 300,511 400,584 500,575 600,557 700,589 800,565 900,564 1000,504 1100,531 1200,539 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,459 100,452 200,422 300,468 400,418 500,459 600,439 700,463 800,413 900,478 1000,431 1100,451 1200,515 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,373 100,379 200,335 300,423 400,396 500,382 600,433 700,425 800,424 900,406 1000,410 1100,431 1200,337 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Night Hawker Street</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area - gallery 1</text>
+</svg>

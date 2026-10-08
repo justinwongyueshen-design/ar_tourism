@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Fishermen Wharf">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,606 100,642 200,608 300,661 400,673 500,676 600,572 700,609 800,647 900,599 1000,672 1100,648 1200,589 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,491 100,544 200,557 300,572 400,493 500,589 600,508 700,560 800,550 900,592 1000,498 1100,521 1200,499 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,455 100,436 200,443 300,440 400,437 500,513 600,485 700,455 800,511 900,488 1000,420 1100,415 1200,509 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,391 100,439 200,439 300,404 400,363 500,344 600,392 700,380 800,356 900,372 1000,345 1100,439 1200,333 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Fishermen Wharf</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Coastal Destination - gallery 2</text>
+</svg>

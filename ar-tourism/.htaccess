@@ -1,0 +1,38 @@
+# AR Tourism Explorer - Apache settings (works on XAMPP and cPanel/Apache)
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(self), geolocation=(self), microphone=()"
+</IfModule>
+
+# Never serve configuration, SQL dumps or docs directly
+<FilesMatch "\.(sql|md|log|ini|sh|bak|dist)$">
+  Require all denied
+</FilesMatch>
+<FilesMatch "^(config\.local\.php|config\.local\.example\.php)$">
+  Require all denied
+</FilesMatch>
+
+
+# Static asset caching (URLs carry ?v=filemtime so updates are picked up instantly)
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/javascript application/json image/svg+xml
+</IfModule>
+<IfModule mod_mime.c>
+  AddType application/javascript .js .mjs
+</IfModule>

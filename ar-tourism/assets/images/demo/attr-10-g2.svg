@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Riverside Craft Market">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f1d1d"/><stop offset="1" stop-color="#ef4444"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<rect x="0" y="386" width="91" height="414" fill="#000" opacity="0.25"/>
+<rect x="97" y="600" width="82" height="200" fill="#000" opacity="0.16"/>
+<rect x="187" y="599" width="90" height="201" fill="#000" opacity="0.23"/>
+<rect x="279" y="497" width="136" height="303" fill="#000" opacity="0.21"/>
+<rect x="423" y="405" width="76" height="395" fill="#000" opacity="0.13"/>
+<rect x="511" y="493" width="120" height="307" fill="#000" opacity="0.19"/>
+<rect x="645" y="346" width="71" height="454" fill="#000" opacity="0.28"/>
+<rect x="727" y="409" width="78" height="391" fill="#000" opacity="0.16"/>
+<rect x="814" y="422" width="129" height="378" fill="#000" opacity="0.17"/>
+<rect x="952" y="529" width="71" height="271" fill="#000" opacity="0.22"/>
+<rect x="1032" y="430" width="140" height="370" fill="#000" opacity="0.19"/>
+<rect x="1182" y="362" width="62" height="438" fill="#000" opacity="0.26"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Riverside Craft Market</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Cultural Village - gallery 2</text>
+</svg>

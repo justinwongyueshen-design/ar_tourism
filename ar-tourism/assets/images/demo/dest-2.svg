@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Nature Escape">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f9e6e"/><stop offset="1" stop-color="#0b3d2e"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,662 100,594 200,602 300,635 400,659 500,610 600,589 700,596 800,603 900,657 1000,631 1100,643 1200,601 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,546 100,528 200,526 300,595 400,508 500,533 600,531 700,521 800,505 900,534 1000,577 1100,506 1200,499 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,472 100,464 200,491 300,455 400,504 500,510 600,417 700,514 800,432 900,497 1000,443 1100,447 1200,464 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,376 100,333 200,412 300,349 400,373 500,373 600,422 700,378 800,361 900,388 1000,360 1100,379 1200,355 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Nature Escape</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Demo destination image</text>
+</svg>

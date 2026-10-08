@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Heritage Coffee House">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,609 100,656 200,603 300,614 400,666 500,609 600,575 700,640 800,613 900,612 1000,609 1100,623 1200,620 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,581 100,527 200,587 300,589 400,582 500,546 600,534 700,588 800,558 900,565 1000,595 1100,582 1200,555 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,410 100,470 200,435 300,416 400,471 500,445 600,456 700,485 800,464 900,422 1000,482 1100,450 1200,455 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,353 100,424 200,382 300,335 400,428 500,394 600,347 700,337 800,335 900,434 1000,381 1100,370 1200,332 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Heritage Coffee House</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area - gallery 1</text>
+</svg>

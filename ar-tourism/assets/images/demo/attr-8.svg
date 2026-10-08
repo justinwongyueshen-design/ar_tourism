@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Weavers Longhouse">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d97706"/><stop offset="1" stop-color="#7c2d12"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="571,740 765,740 668,546" fill="#fff" opacity="0.15"/>
+<polygon points="114,740 239,740 176,615" fill="#fff" opacity="0.16"/>
+<polygon points="937,740 1062,740 999,615" fill="#fff" opacity="0.16"/>
+<polygon points="940,740 1088,740 1014,592" fill="#fff" opacity="0.11"/>
+<polygon points="276,740 394,740 335,622" fill="#fff" opacity="0.10"/>
+<polygon points="1133,740 1231,740 1182,642" fill="#fff" opacity="0.17"/>
+<polygon points="623,740 779,740 701,584" fill="#fff" opacity="0.09"/>
+<polygon points="421,740 538,740 479,623" fill="#fff" opacity="0.13"/>
+<polygon points="290,740 452,740 371,578" fill="#fff" opacity="0.09"/>
+<polygon points="1184,740 1368,740 1276,556" fill="#fff" opacity="0.10"/>
+<polygon points="461,740 660,740 560,541" fill="#fff" opacity="0.15"/>
+<polygon points="317,740 431,740 374,626" fill="#fff" opacity="0.17"/>
+<polygon points="61,740 128,740 94,673" fill="#fff" opacity="0.16"/>
+<polygon points="1192,740 1260,740 1226,672" fill="#fff" opacity="0.09"/>
+<polygon points="523,740 717,740 620,546" fill="#fff" opacity="0.12"/>
+<polygon points="717,740 869,740 793,588" fill="#fff" opacity="0.13"/>
+<polygon points="502,740 700,740 601,542" fill="#fff" opacity="0.11"/>
+<polygon points="358,740 527,740 442,571" fill="#fff" opacity="0.12"/>
+<polygon points="783,740 852,740 817,671" fill="#fff" opacity="0.07"/>
+<polygon points="182,740 274,740 228,648" fill="#fff" opacity="0.09"/>
+<polygon points="299,740 481,740 390,558" fill="#fff" opacity="0.12"/>
+<polygon points="716,740 875,740 795,581" fill="#fff" opacity="0.08"/>
+<polygon points="1094,740 1267,740 1180,567" fill="#fff" opacity="0.06"/>
+<polygon points="935,740 1001,740 968,674" fill="#fff" opacity="0.08"/>
+<polygon points="70,740 244,740 157,566" fill="#fff" opacity="0.09"/>
+<polygon points="194,740 287,740 240,647" fill="#fff" opacity="0.18"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Weavers Longhouse</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Cultural Village</text>
+</svg>

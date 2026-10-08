@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Spice Market Hall">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f1d1d"/><stop offset="1" stop-color="#ef4444"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="743,740 849,740 796,634" fill="#fff" opacity="0.11"/>
+<polygon points="641,740 791,740 716,590" fill="#fff" opacity="0.18"/>
+<polygon points="359,740 544,740 451,555" fill="#fff" opacity="0.15"/>
+<polygon points="310,740 494,740 402,556" fill="#fff" opacity="0.12"/>
+<polygon points="388,740 522,740 455,606" fill="#fff" opacity="0.10"/>
+<polygon points="67,740 250,740 158,557" fill="#fff" opacity="0.13"/>
+<polygon points="1005,740 1184,740 1094,561" fill="#fff" opacity="0.08"/>
+<polygon points="1081,740 1250,740 1165,571" fill="#fff" opacity="0.15"/>
+<polygon points="1112,740 1269,740 1190,583" fill="#fff" opacity="0.09"/>
+<polygon points="353,740 450,740 401,643" fill="#fff" opacity="0.17"/>
+<polygon points="619,740 782,740 700,577" fill="#fff" opacity="0.16"/>
+<polygon points="759,740 835,740 797,664" fill="#fff" opacity="0.14"/>
+<polygon points="785,740 893,740 839,632" fill="#fff" opacity="0.15"/>
+<polygon points="296,740 417,740 356,619" fill="#fff" opacity="0.07"/>
+<polygon points="403,740 596,740 499,547" fill="#fff" opacity="0.15"/>
+<polygon points="490,740 553,740 521,677" fill="#fff" opacity="0.17"/>
+<polygon points="97,740 265,740 181,572" fill="#fff" opacity="0.11"/>
+<polygon points="532,740 603,740 567,669" fill="#fff" opacity="0.15"/>
+<polygon points="1054,740 1237,740 1145,557" fill="#fff" opacity="0.14"/>
+<polygon points="744,740 825,740 784,659" fill="#fff" opacity="0.07"/>
+<polygon points="841,740 968,740 904,613" fill="#fff" opacity="0.10"/>
+<polygon points="967,740 1132,740 1049,575" fill="#fff" opacity="0.12"/>
+<polygon points="54,740 206,740 130,588" fill="#fff" opacity="0.18"/>
+<polygon points="136,740 228,740 182,648" fill="#fff" opacity="0.06"/>
+<polygon points="829,740 982,740 905,587" fill="#fff" opacity="0.12"/>
+<polygon points="1190,740 1330,740 1260,600" fill="#fff" opacity="0.14"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Spice Market Hall</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area - gallery 2</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Night Hawker Street">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="1059" cy="746" r="75" fill="#fff" opacity="0.09"/>
+<circle cx="1105" cy="791" r="86" fill="#fff" opacity="0.14"/>
+<circle cx="837" cy="43" r="62" fill="#fff" opacity="0.07"/>
+<circle cx="500" cy="88" r="116" fill="#fff" opacity="0.07"/>
+<circle cx="1125" cy="602" r="115" fill="#fff" opacity="0.13"/>
+<circle cx="102" cy="771" r="59" fill="#fff" opacity="0.13"/>
+<circle cx="1175" cy="714" r="37" fill="#fff" opacity="0.13"/>
+<circle cx="702" cy="645" r="114" fill="#fff" opacity="0.12"/>
+<circle cx="752" cy="201" r="35" fill="#fff" opacity="0.09"/>
+<circle cx="999" cy="464" r="31" fill="#fff" opacity="0.11"/>
+<circle cx="1032" cy="794" r="57" fill="#fff" opacity="0.12"/>
+<circle cx="922" cy="22" r="33" fill="#fff" opacity="0.13"/>
+<circle cx="881" cy="327" r="55" fill="#fff" opacity="0.11"/>
+<circle cx="566" cy="57" r="49" fill="#fff" opacity="0.09"/>
+<circle cx="901" cy="579" r="34" fill="#fff" opacity="0.10"/>
+<circle cx="394" cy="587" r="36" fill="#fff" opacity="0.12"/>
+<circle cx="734" cy="780" r="95" fill="#fff" opacity="0.11"/>
+<circle cx="1159" cy="364" r="30" fill="#fff" opacity="0.11"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Night Hawker Street</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Food Heritage Area</text>
+</svg>

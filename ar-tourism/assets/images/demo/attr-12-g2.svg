@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Golden Sands Beach">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14532d"/><stop offset="1" stop-color="#22c55e"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,666 100,628 200,645 300,621 400,617 500,655 600,574 700,591 800,603 900,673 1000,586 1100,643 1200,590 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,541 100,519 200,550 300,559 400,507 500,501 600,576 700,586 800,521 900,587 1000,595 1100,575 1200,530 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,468 100,434 200,512 300,484 400,504 500,497 600,444 700,422 800,500 900,463 1000,479 1100,491 1200,414 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,362 100,440 200,401 300,332 400,379 500,335 600,389 700,415 800,414 900,367 1000,418 1100,400 1200,380 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Golden Sands Beach</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Coastal Destination - gallery 2</text>
+</svg>

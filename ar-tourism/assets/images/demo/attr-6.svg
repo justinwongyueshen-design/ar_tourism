@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Emerald Waterfall Trail">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#78350f"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="0,800 0,679 100,670 200,641 300,586 400,652 500,573 600,664 700,652 800,649 900,657 1000,638 1100,647 1200,613 1200,800" fill="#000" opacity="0.12"/>
+<polygon points="0,800 0,583 100,517 200,536 300,576 400,583 500,506 600,569 700,565 800,514 900,545 1000,518 1100,516 1200,561 1200,800" fill="#000" opacity="0.20"/>
+<polygon points="0,800 0,458 100,466 200,505 300,433 400,436 500,450 600,482 700,512 800,418 900,476 1000,474 1100,480 1200,434 1200,800" fill="#000" opacity="0.28"/>
+<polygon points="0,800 0,428 100,345 200,351 300,339 400,355 500,414 600,375 700,381 800,416 900,428 1000,439 1100,380 1200,369 1200,800" fill="#000" opacity="0.36"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Emerald Waterfall Trail</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape</text>
+</svg>

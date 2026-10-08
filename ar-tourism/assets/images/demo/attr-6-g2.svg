@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Emerald Waterfall Trail">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#78350f"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="912" cy="522" r="110" fill="#fff" opacity="0.06"/>
+<circle cx="1119" cy="329" r="43" fill="#fff" opacity="0.09"/>
+<circle cx="185" cy="760" r="95" fill="#fff" opacity="0.12"/>
+<circle cx="730" cy="636" r="109" fill="#fff" opacity="0.07"/>
+<circle cx="982" cy="175" r="93" fill="#fff" opacity="0.10"/>
+<circle cx="1018" cy="219" r="33" fill="#fff" opacity="0.10"/>
+<circle cx="377" cy="642" r="55" fill="#fff" opacity="0.08"/>
+<circle cx="747" cy="463" r="35" fill="#fff" opacity="0.07"/>
+<circle cx="840" cy="86" r="102" fill="#fff" opacity="0.09"/>
+<circle cx="982" cy="389" r="96" fill="#fff" opacity="0.10"/>
+<circle cx="398" cy="733" r="109" fill="#fff" opacity="0.09"/>
+<circle cx="302" cy="386" r="31" fill="#fff" opacity="0.09"/>
+<circle cx="352" cy="448" r="71" fill="#fff" opacity="0.11"/>
+<circle cx="741" cy="252" r="48" fill="#fff" opacity="0.09"/>
+<circle cx="875" cy="486" r="96" fill="#fff" opacity="0.12"/>
+<circle cx="23" cy="3" r="59" fill="#fff" opacity="0.12"/>
+<circle cx="512" cy="593" r="79" fill="#fff" opacity="0.08"/>
+<circle cx="239" cy="443" r="105" fill="#fff" opacity="0.13"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Emerald Waterfall Trail</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape - gallery 2</text>
+</svg>

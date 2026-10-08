@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Orchid Garden Reserve">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#064e3b"/><stop offset="1" stop-color="#16a34a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="900" cy="240" r="110" fill="#fff" opacity=".35"/>
+<path d="M0,740 Q60,700 120,740 Q180,700 240,740 Q300,700 360,740 Q420,700 480,740 Q540,700 600,740 Q660,700 720,740 Q780,700 840,740 Q900,700 960,740 Q1020,700 1080,740 Q1140,700 1200,740 L1200,800 L0,800 Z" fill="#000" opacity="0.08"/>
+<path d="M0,670 Q60,630 120,670 Q180,630 240,670 Q300,630 360,670 Q420,630 480,670 Q540,630 600,670 Q660,630 720,670 Q780,630 840,670 Q900,630 960,670 Q1020,630 1080,670 Q1140,630 1200,670 L1200,800 L0,800 Z" fill="#000" opacity="0.14"/>
+<path d="M0,600 Q60,560 120,600 Q180,560 240,600 Q300,560 360,600 Q420,560 480,600 Q540,560 600,600 Q660,560 720,600 Q780,560 840,600 Q900,560 960,600 Q1020,560 1080,600 Q1140,560 1200,600 L1200,800 L0,800 Z" fill="#000" opacity="0.20"/>
+<path d="M0,530 Q60,490 120,530 Q180,490 240,530 Q300,490 360,530 Q420,490 480,530 Q540,490 600,530 Q660,490 720,530 Q780,490 840,530 Q900,490 960,530 Q1020,490 1080,530 Q1140,490 1200,530 L1200,800 L0,800 Z" fill="#000" opacity="0.26"/>
+<path d="M0,460 Q60,420 120,460 Q180,420 240,460 Q300,420 360,460 Q420,420 480,460 Q540,420 600,460 Q660,420 720,460 Q780,420 840,460 Q900,420 960,460 Q1020,420 1080,460 Q1140,420 1200,460 L1200,800 L0,800 Z" fill="#000" opacity="0.32"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Orchid Garden Reserve</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Nature Escape - gallery 1</text>
+</svg>

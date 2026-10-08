@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Old Clock Tower Square">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5c3d1e"/><stop offset="1" stop-color="#b8860b"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<polygon points="274,740 387,740 330,627" fill="#fff" opacity="0.11"/>
+<polygon points="924,740 998,740 961,666" fill="#fff" opacity="0.09"/>
+<polygon points="626,740 748,740 687,618" fill="#fff" opacity="0.13"/>
+<polygon points="471,740 543,740 507,668" fill="#fff" opacity="0.07"/>
+<polygon points="540,740 622,740 581,658" fill="#fff" opacity="0.10"/>
+<polygon points="286,740 393,740 339,633" fill="#fff" opacity="0.17"/>
+<polygon points="937,740 1092,740 1014,585" fill="#fff" opacity="0.17"/>
+<polygon points="427,740 566,740 496,601" fill="#fff" opacity="0.13"/>
+<polygon points="939,740 1081,740 1010,598" fill="#fff" opacity="0.07"/>
+<polygon points="549,740 690,740 619,599" fill="#fff" opacity="0.12"/>
+<polygon points="905,740 989,740 947,656" fill="#fff" opacity="0.10"/>
+<polygon points="426,740 560,740 493,606" fill="#fff" opacity="0.08"/>
+<polygon points="779,740 856,740 817,663" fill="#fff" opacity="0.16"/>
+<polygon points="176,740 236,740 206,680" fill="#fff" opacity="0.15"/>
+<polygon points="952,740 1024,740 988,668" fill="#fff" opacity="0.11"/>
+<polygon points="760,740 880,740 820,620" fill="#fff" opacity="0.08"/>
+<polygon points="372,740 516,740 444,596" fill="#fff" opacity="0.15"/>
+<polygon points="565,740 744,740 654,561" fill="#fff" opacity="0.07"/>
+<polygon points="42,740 159,740 100,623" fill="#fff" opacity="0.13"/>
+<polygon points="65,740 145,740 105,660" fill="#fff" opacity="0.08"/>
+<polygon points="914,740 1107,740 1010,547" fill="#fff" opacity="0.08"/>
+<polygon points="44,740 194,740 119,590" fill="#fff" opacity="0.11"/>
+<polygon points="85,740 241,740 163,584" fill="#fff" opacity="0.06"/>
+<polygon points="974,740 1109,740 1041,605" fill="#fff" opacity="0.12"/>
+<polygon points="331,740 402,740 366,669" fill="#fff" opacity="0.12"/>
+<polygon points="409,740 492,740 450,657" fill="#fff" opacity="0.17"/>
+<text x="60" y="680" font-family="Georgia,serif" font-size="68" font-weight="bold" fill="#fff" opacity=".95">Old Clock Tower Square</text>
+<text x="62" y="730" font-family="Arial,sans-serif" font-size="30" fill="#fff" opacity=".8">Heritage District - gallery 1</text>
+</svg>

@@ -27,7 +27,7 @@ $defaults = [
     'DB_PORT'               => '3306',
     'DB_NAME'               => 'synergy1_justinwong_ar_tourism',
     'DB_USER'               => 'synergy1_yenping',
-    'DB_PASS'               => 'R.zb0ZwEuGZ}*fW2',
+    'DB_PASS'               => ' R.zb0ZwEuGZ}*fW2',
     'DB_CHARSET'            => 'utf8mb4',
 
     'SESSION_NAME'          => 'artourism_sid',

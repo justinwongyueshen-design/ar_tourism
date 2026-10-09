@@ -54,9 +54,9 @@ foreach ($defaults as $name => $value) {
     }
 }
 
-date_default_timezone_set(APP_TIMEZONE);
+date_default_timezone_set($defaults['APP_TIMEZONE']);
 
-if (APP_ENV === 'development') {
+if ($defaults['APP_ENV'] === 'development') {
     ini_set('display_errors', '1');
     error_reporting(E_ALL);
 } else {

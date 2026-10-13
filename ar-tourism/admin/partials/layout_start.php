@@ -15,6 +15,7 @@ $menu = [
     ['categories', 'Categories', 'fa-tags', 'admin/categories/index.php'],
     ['_h', 'AR Management'],
     ['posters', 'AR Posters', 'fa-image', 'admin/ar-posters/index.php'],
+    ['posters_add', 'Add AR Poster', 'fa-plus', 'admin/ar-posters/form.php'],
     ['hotspots', 'Hotspots', 'fa-bullseye', 'admin/ar-posters/index.php?goto=editor'],
     ['compile', 'Target Compilation', 'fa-microchip', 'admin/ar-posters/index.php?goto=compile'],
 ];

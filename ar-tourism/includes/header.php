@@ -13,6 +13,7 @@ $nav = [
     'destinations' => ['Destinations', 'destinations.php'],
     'attractions'  => ['Attractions', 'attractions.php'],
     'ar'           => ['AR Experience', 'ar.php'],
+    'add_ar'       => ['Add AR', 'admin/ar-posters/form.php'],
     'about'        => ['About', 'about.php'],
     'contact'      => ['Contact', 'contact.php'],
 ];
@@ -45,7 +46,7 @@ $nav = [
         <?php foreach ($nav as $key => [$label, $href]): ?>
           <li class="nav-item">
             <a class="nav-link <?= $navActive === $key ? 'active' : '' ?><?= $key === 'ar' ? ' nav-ar' : '' ?>" <?= $navActive === $key ? 'aria-current="page"' : '' ?> href="<?= e(url($href)) ?>">
-              <?php if ($key === 'ar'): ?><i class="fa-solid fa-vr-cardboard me-1"></i><?php endif; ?><?= e($label) ?></a>
+              <?php if ($key === 'ar'): ?><i class="fa-solid fa-vr-cardboard me-1"></i><?php elseif ($key === 'add_ar'): ?><i class="fa-solid fa-plus me-1"></i><?php endif; ?><?= e($label) ?></a>
           </li>
         <?php endforeach; ?>
       </ul>

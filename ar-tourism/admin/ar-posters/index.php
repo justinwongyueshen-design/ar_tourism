@@ -62,7 +62,7 @@ admin_toolbar(url('admin/ar-posters/form.php'), 'Add AR poster', $q, 'Search pos
         <a class="btn btn-sm btn-outline-primary" href="<?= e(url('admin/ar-posters/compile.php?id=' . (int) $p['id'])) ?>"><i class="fa-solid fa-microchip me-1"></i><?= $p['target_status'] === 'READY' ? 'Recompile' : 'Compile' ?></a>
         <a class="btn btn-sm btn-outline-secondary" href="<?= e(url('ar.php?poster=' . (int) $p['id'])) ?>" target="_blank" rel="noopener" title="Preview AR"><i class="fa-solid fa-vr-cardboard"></i><span class="visually-hidden">Preview AR</span></a>
         <form method="post" class="d-inline"><?= csrf_field() ?><input type="hidden" name="action" value="publish"><input type="hidden" name="id" value="<?= (int) $p['id'] ?>">
-          <button class="btn btn-sm btn-outline-secondary" type="submit" title="Publish / unpublish"><i class="fa-solid fa-<?= $p['status'] === 'published' ? 'eye-slash' : 'upload' ?>"></i><span class="visually-hidden">Publish or unpublish</span></button></form>
+          <button class="btn btn-sm <?= $p['status'] === 'published' ? 'btn-outline-secondary' : 'btn-success' ?>" type="submit"><i class="fa-solid fa-<?= $p['status'] === 'published' ? 'eye-slash' : 'upload' ?> me-1"></i><?= $p['status'] === 'published' ? 'Unpublish' : 'Publish' ?></button></form>
         <a class="btn btn-sm btn-outline-primary" href="<?= e(url('admin/ar-posters/form.php?id=' . (int) $p['id'])) ?>" title="Edit"><i class="fa-solid fa-pen"></i><span class="visually-hidden">Edit</span></a>
         <?= delete_form('delete', (int) $p['id'], 'Delete poster "' . $p['poster_name'] . '", its hotspots and its compiled targets?') ?>
       </td>
